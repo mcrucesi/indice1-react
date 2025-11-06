@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indice1.cl/sitemap.xml
